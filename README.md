@@ -1,7 +1,7 @@
 # expense-tracker-react
 
+    App is used to track user expense and represent it in list and graphical form. Use can also delete and filter expense.  
         
-        App fetches data from star wars API(https://swapi.dev/) to gather data for movies.
 
 ## [Live Demo](https://tarun-sachan.github.io/expense-tracker-react/)
 
@@ -18,7 +18,9 @@
 **Client:** 
   &emsp;  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &emsp;  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &emsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
-
+## Future Updates
+    
+    Currently data is only stored temperory in brouser. Will add backend data storage using google firebase.
 
 ## Acknowledgements
 

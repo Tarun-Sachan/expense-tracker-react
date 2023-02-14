@@ -1,6 +1,6 @@
 # expense-tracker-react
 
-    App is used to track user expense and represent it in list and graphical form. Use can also delete and filter expense.  
+   App is used to track user expense and represent it in list and graphical form. Use can also delete and filter expense.  
         
 
 ## [Live Demo](https://tarun-sachan.github.io/expense-tracker-react/)
